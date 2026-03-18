@@ -88,9 +88,14 @@ ${formData.message}`;
                     <Mail className="w-6 h-6 text-[#0f1f3d]" />
                   </div>
                   <div>
-                    <p className="text-gray-300 text-sm mb-1">Email</p>
-                    <p className="text-xl">info@masterstroke.com</p>
-                  </div>
+  <p className="text-gray-300 text-sm mb-1">Email</p>
+  <a
+    href="mailto:info@masterstroke.com"
+    className="text-xl hover:text-[#D4AF37] transition-colors"
+  >
+    info@masterstroke.com
+  </a>
+</div>
                 </div>
 
                 <div className="flex items-start gap-4">

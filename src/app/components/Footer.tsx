@@ -85,7 +85,7 @@ export function Footer() {
               >
                 <Instagram className="w-6 h-6" />
               </a>
-              <a
+              {/* <a
                 href="#"
                 className="w-12 h-12 rounded-full bg-white/10 hover:bg-[#D4AF37] flex items-center justify-center transition-all duration-300 hover:scale-110"
               >
@@ -96,7 +96,7 @@ export function Footer() {
                 className="w-12 h-12 rounded-full bg-white/10 hover:bg-[#D4AF37] flex items-center justify-center transition-all duration-300 hover:scale-110"
               >
                 <Linkedin className="w-6 h-6" />
-              </a>
+              </a> */}
             </div>
             <div className="mt-6">
               <p className="text-sm text-gray-400 mb-2">Instagram</p>
